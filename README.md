@@ -13,7 +13,7 @@ A high-performance Tampermonkey userscript that adds a native, stable Picture-in
 
 1. Make sure you have the [Tampermonkey Extension](https://tampermonkey.net) installed in your browser.
 2. Click the link below to open the raw code file:
-   * **[👉 Click Here to Install Directly]https://github.com/TonyKillam/twitch-pip-userscript/raw/refs/heads/main/twitch-pip.user.js**
+   * **[👉 Click Here to Install Directly](https://github.com/TonyKillam/twitch-pip-userscript/raw/refs/heads/main/twitch-pip.user.js)**
 3. Tampermonkey will automatically detect the script. Click **Install**.
 
 ## ⌨️ How to Use
